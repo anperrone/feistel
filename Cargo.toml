@@ -1,0 +1,13 @@
+[package]
+name = "feistel"
+version = "0.1.0"
+edition = "2024"
+authors = ["Antonio Perrone <anperrone86@gmail.com>"]
+description = "A didactic implementation of a Feistel cipher in Rust"
+license = "MIT"
+repository = "https://github.com/anperrone/feistel"
+readme = "README.md"
+keywords = ["cryptography", "feistel", "cipher", "educational", "encryption"]
+categories = ["cryptography", "algorithms"]
+
+[dependencies]
